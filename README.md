@@ -15,7 +15,7 @@ This project is an opportunity to create my own custom exploratory data analysis
    Edit README.md to record commands, process, and notes so far as the project progresses.
 4. 5. This is good time to `git add .`, `git commit -m "Message"`, `git push -u origin main` files to GitHub
 
-# Step 3: Create and Manage Virtual Environment
+## Step 3: Create and Manage Virtual Environment
 1. Run command `git pull` first, to make sure the current project contents are on the machine.
 2. Windows PowerShell: `python -m venv .venv` to create a new .venv environment in the project repo.
 3. Activate the Virtual Environment: `.\.venv\Scripts\activate`
@@ -30,11 +30,10 @@ This project is an opportunity to create my own custom exploratory data analysis
 4. Choose the interpreter inside the .venv folder located in the project root directory.
 5. This is good time to `git add .`, `git commit -m "Message"`, `git push -u origin main` files to GitHub
 
-# Project Structure
+## Project Structure
 
-
-# Git Commands Reminder: 
-## Add Changes: `git add .`
-## Commit Changes: 5. `git commit -m "Message"`
-## Push Changes to GitHub: `git commit -m "Message"`
-## Pull Latest Changes:  `git push -u origin main`
+## Git Commands Reminder: 
+1. Add Changes: `git add .`
+2. Commit Changes: 5. `git commit -m "Message"`
+3. Push Changes to GitHub: `git commit -m "Message"`
+4. Pull Latest Changes:  `git push -u origin main`
