@@ -1,0 +1,46 @@
+# requirements.txt - All the packages required for this project
+# -------------------------------
+# Core Python Package Management
+# -------------------------------
+
+# Pip - The package manager for Python
+pip==25.0.1
+
+# Setuptools - Tools for packaging Python projects
+setuptools==75.8.0
+
+# Wheel - Helps distribute Python packages in the .whl format
+wheel==0.45.1
+
+# -------------------------------
+# Interactive Python Environment
+# -------------------------------
+
+# IPython - Provides an enhanced interactive shell for Python
+ipython==8.32.0
+
+# JupyterLab - Web-based interactive development environment for notebooks
+jupyterlab
+
+# -------------------------------
+# Numerical & Data Processing
+# -------------------------------
+
+# NumPy - Library for numerical computing and handling large datasets
+numpy
+
+# Pandas - Data analysis and manipulation tool, useful for working with DataFrames
+pandas
+
+# PyArrow - Provides fast data interchange between Pandas and Apache Arrow
+pyarrow
+
+# -------------------------------
+# Data Visualization
+# -------------------------------
+
+# Matplotlib - Visualization library for creating static, animated, and interactive plots
+matplotlib
+
+# Seaborn - Statistical data visualization built on top of Matplotlib
+seaborn
