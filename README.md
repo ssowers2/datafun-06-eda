@@ -1,5 +1,5 @@
 # datafun-06-eda
-This project is an opportunity to create my own custom exploratory data analysis (EDA) project using GitHub, Git, Jupyter, pandas, Seaborn and other popular data analytics tools.
+This project is an opportunity to create my own custom exploratory data analysis (EDA) project using GitHub, Git, Jupyter, pandas, Seaborn and other popular data analytics tools.The objective of this project is to perform and publish a custom EDA project to demonstrate skills with Jupyter, pandas, Seaborn and popular tools for data analytics. This notebook should tell a data story and visually present findings in a clear and engaging manner.
 
 ## Step 1: New Project Setup
 1. Initialize Repository: Create a new GitHub repository named **datafun-05-sql** with a default `README.md`.
@@ -32,7 +32,7 @@ This project is an opportunity to create my own custom exploratory data analysis
 
 ## Project Structure
 
-## Git Commands Reminder: 
+## Git Commands Reminders 
 1. Add Changes: `git add .`
 2. Commit Changes: 5. `git commit -m "Message"`
 3. Push Changes to GitHub: `git commit -m "Message"`
