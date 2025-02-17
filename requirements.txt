@@ -32,18 +32,18 @@ jupyter==1.1.1
 # NumPy - Library for numerical computing and handling large datasets
 numpy==2.2.3
 
-# Pandas - Data analysis and manipulation tool, useful for working with DataFrames
+# Pandas - Handles data manipulation and analysis, focusing on structured (tabular/panel) data.
 pandas==2.2.3
 
-# PyArrow - Provides fast data interchange between Pandas and Apache Arrow
+# PyArrow - Required by pandas; facilitates interaction between pandas and the Arrow format.
 pyarrow==19.0.0
 
 # -------------------------------
 # Data Visualization
 # -------------------------------
 
-# Matplotlib - Visualization library for creating static, animated, and interactive plots
+# Matplotlib - Basic tools for plotting and visualizing data.
 matplotlib==3.10.0
 
-# Seaborn - Statistical data visualization built on top of Matplotlib
+# Seaborn - Simplifies complex visualizations and statistical plots, built on matplotlib.
 seaborn==0.13.2

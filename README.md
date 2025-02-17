@@ -1,5 +1,7 @@
 # datafun-06-eda
-This project is an opportunity to create my own custom exploratory data analysis (EDA) project using GitHub, Git, Jupyter, pandas, Seaborn and other popular data analytics tools.The objective of this project is to perform and publish a custom EDA project to demonstrate skills with Jupyter, pandas, Seaborn and popular tools for data analytics. This notebook should tell a data story and visually present findings in a clear and engaging manner.
+
+### Purpose  
+This project analyzes historical suicide rates in the United States to identify the demographic groups most at risk. It examines trends over time, age groups most affected, differences by sex and race, and any high risk populations.
 
 ## Step 1: New Project Setup
 1. Initialize Repository: Create a new GitHub repository named **datafun-05-sql** with a default `README.md`.
@@ -29,6 +31,16 @@ This project is an opportunity to create my own custom exploratory data analysis
 3. Type "Python: Select Interpreter".
 4. Choose the interpreter inside the .venv folder located in the project root directory.
 5. This is good time to `git add .`, `git commit -m "Message"`, `git push -u origin main` files to GitHub
+
+## Step 6: Select a dataset, provide a link and its description, and possible areas to analyze
+1. Data Source: https://data.gov 
+2. Dataset: https://catalog.data.gov/dataset/death-rates-for-suicide-by-sex-race-hispanic-origin-and-age-united-states-020c1
+3. Description: This dataset provides historical suicide death rates in the United States, categorized by age, sex, race, and Hispanic origin. The data spans multiple years and includes estimated suicide rates per 100,000 residents, adjusted for age.
+4. Trends Over Time: Analyze how suicide rates have changed across decades
+5. Demographic Disparities: Compare rates across different races, sexes, and age groups.
+6. Age-Specific Trends: Identify the most vulnerable age groups.
+7. Gender Differences: Examine male vs. female suicide rates. 
+8. Race and Ethnicity Impact: Investigate whether certain racial or ethnic groups have higher risk factors.
 
 ## Project Structure
 
