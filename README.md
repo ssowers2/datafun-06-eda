@@ -1,7 +1,10 @@
 # datafun-06-eda
 
-### Purpose  
-This project analyzes historical suicide rates in the United States to identify the demographic groups most at risk. It examines trends over time, age groups most affected, differences by sex and race, and any high risk populations.
+## Purpose  
+This project analyzes **historical suicide rates in the United States** to identify demographic groups most at risk. It examines:  
+- **Trends over time**  
+- **Age groups most affected**  
+- **Differences by sex and race**  
 
 ## Step 1: New Project Setup
 1. Initialize Repository: Create a new GitHub repository named **datafun-05-sql** with a default `README.md`.
