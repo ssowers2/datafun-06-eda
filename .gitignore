@@ -9,8 +9,11 @@
 # Compiled Python files
 __pycache__/
 
-# macOS system files
-.DS_Store
+# Large datasets
+data/
+datasets/
+*.csv
+*.xlsx
 
 # Jupyter Notebook
 .ipynb_checkpoints
