@@ -36,13 +36,8 @@ This project analyzes historical suicide rates in the United States to identify 
 1. Data Source: https://data.gov 
 2. Dataset: https://catalog.data.gov/dataset/death-rates-for-suicide-by-sex-race-hispanic-origin-and-age-united-states-020c1
 3. Description: This dataset provides historical suicide death rates in the United States, categorized by age, sex, race, and Hispanic origin. The data spans multiple years and includes estimated suicide rates per 100,000 residents, adjusted for age.
-4. Trends Over Time: Analyze how suicide rates have changed across decades
-5. Demographic Disparities: Compare rates across different races, sexes, and age groups.
-6. Age-Specific Trends: Identify the most vulnerable age groups.
-7. Gender Differences: Examine male vs. female suicide rates. 
-8. Race and Ethnicity Impact: Investigate whether certain racial or ethnic groups have higher risk factors.
 
-## Project Structure
+## Step 7: Create database, SQL Statements, and Python Scripts 
 
 ## Git Commands Reminders 
 1. Add Changes: `git add .`
