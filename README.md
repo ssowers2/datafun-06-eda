@@ -40,7 +40,15 @@ This project analyzes **historical suicide rates in the United States** to ident
 2. Dataset: https://catalog.data.gov/dataset/death-rates-for-suicide-by-sex-race-hispanic-origin-and-age-united-states-020c1
 3. Description: This dataset provides historical suicide death rates in the United States, categorized by age, sex, race, and Hispanic origin. The data spans multiple years and includes estimated suicide rates per 100,000 residents, adjusted for age.
 
-## Step 7: Create database, SQL Statements, and Python Scripts 
+## Step 7: Create Jupyter Notebook: Exploratory Data Analysis
+1.  Data Acquisition
+2.  Initial Data Inspection
+3.  Initial Descriptive Statistics
+4.  Initial Data Distribution for Numerical Columns
+5.  Initial Data Distribution for Categorical Columns
+6.  Create Visualizations
+
+## Step 8: Create database, SQL Statements, and Python Scripts as needed for project
 
 ## Git Commands Reminders 
 1. Add Changes: `git add .`
